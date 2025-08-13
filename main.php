@@ -22,3 +22,7 @@ echo calculate(a: 5, b: 2, command: 'multiply');
 echo "\n";
 echo calculate(a: 7, b: 2, command: 'division');
 echo "\n";
+
+$str = "WebSystemTechnologiesIT204";
+echo strlen($str);
+?>
